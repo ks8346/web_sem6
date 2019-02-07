@@ -1,0 +1,54 @@
+.main-body{
+	width:75%;
+	float:left;
+}
+.head-tag{
+	font-size:30px;
+	font-weight:bold;
+}
+.price{
+	color:#fb2222;
+	font-weight:bold;
+	font-size:23px;
+}
+.image{
+	text-align:center;
+}
+.real-price{
+	color:gray;
+	font-size:20px;
+}
+.desc-list{
+	color:#000;
+}
+.addcart{
+	width:200px;
+	font-size:20px;
+	height:50px;
+	margin:5% 15%;
+	border-radius:50px; 
+	font-weight:bold;
+	background-color: #fb9730;
+	color:white;
+}
+.buy{
+	width:200px;
+	font-size:20px;
+	height:50px;
+	margin:5% 15%;
+	border-radius:50px;
+	font-weight:bold;
+	background-color:#73b73e;
+	color:white;
+}
+.price-area{
+	margin:1% 2%;
+}
+.description{
+	background-image:linear-gradient(to bottom,#b796dc,#fff);
+	line-height:1.5;
+	border:2px solid black;
+	border-radius:50px;
+	padding:2%;
+	margin:1% auto;
+}
